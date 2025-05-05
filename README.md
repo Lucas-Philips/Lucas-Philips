@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-philips&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-philips" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java && PSQL**
 
 - 💬 Ask me about **Scrum**
 
